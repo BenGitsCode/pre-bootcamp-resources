@@ -15,17 +15,54 @@ TODO: Fill out this long description.
 - [Contribute](#contribute)
 - [License](#license)
 
-## Install
 
-```
-```
+## Resources for Developers Preparing for Boot Camps
 
-## Usage
 
-```
-```
+## Javascript
 
-## Maintainers
+ - [JsForCats Intro for New Programmers](http://jsforcats.com/)
+   - Introduction for new programmers almost exclusively through cat examples and metaphors😺
+   - []()
+    -
+## Ruby
+ - []()
+  -
+
+## General Programming
+ - []()
+  -
+
+## HTML & CSS
+
+ - [KhanAcademy Intro to HTML/CSS: Making a Web Page](https://www.khanacademy.org/computing/computer-programming/html-css)
+         - Learn how to use HTML and CSS to make webpages.
+  - [HTML5andCSS3 for Absolute Beginners](https://channel9.msdn.com/Series/HTML5-CSS3-Fundamentals-Development-for-Absolute-Beginners)
+   - Free video course.
+ - [Udemy Free Course](https://www.udemy.com/html-and-css-for-absolute-beginners-with-examples/)
+  -
+
+## Coding Challenges
+
+ - [CodeAbbey](http://www.codeabbey.com/)
+         - Coding challenges ranging from easy to difficult.
+ - [CodeWars](http://www.codewars.com/)
+         - Coding challenges ranging from easy to difficult (lowest kyu [1] is hardest, highest kyu [8] is easiest]
+         -
+## Collections
+
+-[CodeNewbie Learning Resources] http://www.codenewbie.org/learn
+ - sorted by formats and languages. Includes both bootcamps and free resources.
+ - []()
+  -
+
+
+
+
+
+
+
+
 
 ## Contribute
 
