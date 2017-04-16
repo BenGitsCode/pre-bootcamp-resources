@@ -3,7 +3,7 @@
 [![standard-readme compliant](https://img.shields.io/badge/standard--readme-OK-green.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 TODO: Put more badges here.
 
-> A list of resources for those that will soon be attending, or are considering attendion a developer bootcamp.
+> A list of resources for those that will soon be attending, or are considering attending a developer bootcamp.
 
 TODO: Fill out this long description.
 
