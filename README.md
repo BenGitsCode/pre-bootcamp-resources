@@ -3,7 +3,7 @@
 [![standard-readme compliant](https://img.shields.io/badge/standard--readme-OK-green.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 TODO: Put more badges here.
 
-> A list of resources for those that will soon be attending, or are considering attendion a developer bootcamp.
+> A list of resources for those that will soon be attending, or are considering attending a developer bootcamp.
 
 TODO: Fill out this long description.
 
@@ -11,7 +11,6 @@ TODO: Fill out this long description.
 
 - [Install](#install)
 - [Usage](#usage)
-- [Maintainers](#maintainers)
 - [Contribute](#contribute)
 - [License](#license)
 
@@ -40,7 +39,10 @@ TODO: Fill out this long description.
   - [HTML5andCSS3 for Absolute Beginners](https://channel9.msdn.com/Series/HTML5-CSS3-Fundamentals-Development-for-Absolute-Beginners)
    - Free video course.
  - [Udemy Free Course](https://www.udemy.com/html-and-css-for-absolute-beginners-with-examples/)
-  -
+  - Popular and free udemy course on html and css for absolute beginners.
+ - [Learn to Code HTML & CSS](http://learn.shayhowe.com/html-css/)
+  - With two full guides (beginner & advanced) that cover HTML and CSS.
+
 
 ## Coding Challenges
 
@@ -51,10 +53,14 @@ TODO: Fill out this long description.
          -
 ## Collections
 
--[CodeNewbie Learning Resources] http://www.codenewbie.org/learn
- - sorted by formats and languages. Includes both bootcamps and free resources.
- - []()
-  -
+ - [CodeNewbie Learning Resources](http://www.codenewbie.org/learn)
+ - Sorted by formats and languages. Includes both bootcamps and free resources.
+ - [Girl Develop It Open Source Curriculum](http://www.teaching-materials.org/)
+  - Extensive open source list of teaching materials covering anything from accessibilty, HTML & CSS, Javascript, Git.
+ - [The Odin Project](http://www.theodinproject.com/courses)
+  - Collection of wide breadth of web development courses. All free although some _may be dated_.
+ - [bento](https://bento.io/tracks)
+
 
 
 
