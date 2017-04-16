@@ -39,7 +39,10 @@ TODO: Fill out this long description.
   - [HTML5andCSS3 for Absolute Beginners](https://channel9.msdn.com/Series/HTML5-CSS3-Fundamentals-Development-for-Absolute-Beginners)
    - Free video course.
  - [Udemy Free Course](https://www.udemy.com/html-and-css-for-absolute-beginners-with-examples/)
-  -
+  - Popular and free udemy course on html and css for absolute beginners.
+ - [Learn to Code HTML & CSS](http://learn.shayhowe.com/html-css/)
+  - With two full guides (beginner & advanced) that cover HTML and CSS.
+
 
 ## Coding Challenges
 
