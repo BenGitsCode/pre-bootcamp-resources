@@ -53,10 +53,14 @@ TODO: Fill out this long description.
          -
 ## Collections
 
--[CodeNewbie Learning Resources] http://www.codenewbie.org/learn
- - sorted by formats and languages. Includes both bootcamps and free resources.
- - []()
-  -
+ - [CodeNewbie Learning Resources](http://www.codenewbie.org/learn)
+ - Sorted by formats and languages. Includes both bootcamps and free resources.
+ - [Girl Develop It Open Source Curriculum](http://www.teaching-materials.org/)
+  - Extensive open source list of teaching materials covering anything from accessibilty, HTML & CSS, Javascript, Git.
+ - [The Odin Project](http://www.theodinproject.com/courses)
+  - Collection of wide breadth of web development courses. All free although some _may be dated_.
+ - [bento](https://bento.io/tracks)
+
 
 
 
