@@ -9,8 +9,11 @@ TODO: Fill out this long description.
 
 ## Table of Contents
 
-- [Install](#install)
-- [Usage](#usage)
+- [Learning and Mindset](#learning-and-mindset)
+- [Javascript](#javascript)
+- [Ruby](#ruby)
+- [Html and CSS](#html-and-css)
+- [Coding Challenges](#coding-challenges)
 - [Contribute](#contribute)
 - [License](#license)
 
@@ -39,7 +42,7 @@ TODO: Fill out this long description.
  - []()
   -
 
-## HTML & CSS
+## HTML and CSS
 
  - [KhanAcademy Intro to HTML/CSS: Making a Web Page](https://www.khanacademy.org/computing/computer-programming/html-css)
          - Learn how to use HTML and CSS to make webpages.
