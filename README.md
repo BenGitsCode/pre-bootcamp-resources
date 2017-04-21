@@ -35,12 +35,20 @@ TODO: Fill out this long description.
    - []()
     -
 ## Ruby
+ - [Ruby Monk: Primer](https://rubymonk.com/learning/books/1-ruby-primer)
+  - Ruby Monk is an excellent resource and its beginner course 'Primer' is a great place to start learning ruby.
  - []()
   -
+ - []()
+  -
+
 
 ## General Programming
  - []()
   -
+ - []()
+  -
+
 
 ## HTML and CSS
 
@@ -52,6 +60,11 @@ TODO: Fill out this long description.
   - Popular and free udemy course on html and css for absolute beginners.
  - [Learn to Code HTML & CSS](http://learn.shayhowe.com/html-css/)
   - With two full guides (beginner & advanced) that cover HTML and CSS.
+ - []()
+  -
+ - []()
+  -
+
 
 
 ## Coding Challenges
