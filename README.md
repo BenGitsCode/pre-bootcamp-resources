@@ -17,6 +17,13 @@ TODO: Fill out this long description.
 
 ## Resources for Developers Preparing for Boot Camps
 
+## Learning and mindset
+
+ - [How to Learn How to Code](https://medium.freecodecamp.com/this-picture-will-change-the-way-you-learn-to-code-557ac1e109bd)
+   - Learn how to "learn" like a developer.
+ - [The Power of Belief - Mindset of Success](https://www.youtube.com/watch?v=pN34FNbOKXc)
+   - The way we understand our intelligence and abilities deeply impacts our success.
+
 
 ## Javascript
 
