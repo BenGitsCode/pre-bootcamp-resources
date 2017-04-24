@@ -32,8 +32,11 @@ TODO: Fill out this long description.
 
  - [JsForCats Intro for New Programmers](http://jsforcats.com/)
    - Introduction for new programmers almost exclusively through cat examples and metaphors😺
-   - []()
-    -
+ - []()
+   -
+ - []()
+  -
+
 ## Ruby
  - [Ruby Monk: Primer](https://rubymonk.com/learning/books/1-ruby-primer)
   - Ruby Monk is an excellent resource and its beginner course 'Primer' is a great place to start learning ruby.
@@ -47,8 +50,8 @@ TODO: Fill out this long description.
 
 
 ## General Programming
- - []()
-  -
+ - [Harvard's CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
+  - FREE introduction to programming and computer science. ($90 for verified certificate)
  - []()
   -
 
