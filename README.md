@@ -10,6 +10,7 @@ TODO: Fill out this long description.
 ## Table of Contents
 
 - [Learning and Mindset](#learning-and-mindset)
+- [Stories and Anecdotes](#stories-and-anecdote)
 - [Javascript](#javascript)
 - [Ruby](#ruby)
 - [Html and CSS](#html-and-css)
@@ -27,11 +28,14 @@ TODO: Fill out this long description.
  - [The Power of Belief - Mindset of Success](https://www.youtube.com/watch?v=pN34FNbOKXc)
    - The way we understand our intelligence and abilities deeply impacts our success.
 
+## Stories and Anecdotes
+ - [Glass Slippers and Grit: What the Bootcamp Experience Could Be](https://dev.to/mgtei/glass-slippers-and-grit-what-the-bootcamp-experience-could-be)
+   - Blogpost from @Mgtei (github, twitter, & http://margaret-ikeda.com/) about her experience in a bootcamp.
 
 ## Javascript
 
  - [JsForCats Intro for New Programmers](http://jsforcats.com/)
-   - Introduction for new programmers almost exclusively through cat examples and metaphors😺
+   - Introduction for new programmers almost exclusively through cat examples and metaphors 😺
  - [JS the Right Way](http://jstherightway.org/)
    - Awesome resource full of simple definitions and tons of resources from everything js from beginner to more advanced topics. Great for
 getting started or simply to use as a "go to" resource for definitions and additional resources.
