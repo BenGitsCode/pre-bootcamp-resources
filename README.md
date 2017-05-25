@@ -69,10 +69,6 @@ getting started or simply to use as a "go to" resource for definitions and addit
   - Popular and free udemy course on html and css for absolute beginners.
  - [Learn to Code HTML & CSS](http://learn.shayhowe.com/html-css/)
   - With two full guides (beginner & advanced) that cover HTML and CSS.
- - []()
-  -
- - []()
-  -
 
 
 
