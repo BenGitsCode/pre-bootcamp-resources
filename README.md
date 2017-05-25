@@ -44,14 +44,11 @@ getting started or simply to use as a "go to" resource for definitions and addit
 
 ## Ruby
  - [Ruby Monk: Primer](https://rubymonk.com/learning/books/1-ruby-primer)
-  - Ruby Monk is an excellent resource and its beginner course 'Primer' is a great place to start learning ruby.
+   - Ruby Monk is an excellent resource and its beginner course 'Primer' is a great place to start learning ruby.
  - [A Beginners Guide to Ruby](https://hackhands.com/beginners-guide-ruby/)
-  - Beginners guide with 24/7 live help.
+   - Beginners guide with 24/7 live help.
  - [Ruby for Beginners](http://ruby-for-beginners.rubymonstas.org/index.html)
-  - Open source ebook.
-  -
- - []()
-  -
+   - Open source ebook.
 
 
 ## General Programming
