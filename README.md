@@ -35,7 +35,8 @@ TODO: Fill out this long description.
 
 ## Javascript
 
- - [Awesome List of Javascript Learning](https://github.com/micromata/awesome-javascript-learninig)
+ - [Awesome List of Javascript Learning](https://github.com/micromata/awesome-javascript-learning)
+   - "An awesome list limited to the best JavaScript learning resources."
  - [JsForCats Intro for New Programmers](http://jsforcats.com/)
    - Introduction for new programmers almost exclusively through cat examples and metaphors 😺
  - [JS the Right Way](http://jstherightway.org/)
