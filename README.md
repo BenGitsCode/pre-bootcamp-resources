@@ -92,8 +92,6 @@ getting started or simply to use as a "go to" resource for definitions and addit
   - Collection of wide breadth of web development courses. All free although some _may be dated_.
  - [bento](https://bento.io/tracks)
   - Courses for beginners broken down by fundamentals, front-end (CLIENT), back-end (API).
- - []()
-  -
 
 
 
