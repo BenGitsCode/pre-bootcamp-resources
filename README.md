@@ -35,13 +35,12 @@ TODO: Fill out this long description.
 
 ## Javascript
 
+ - [Awesome List of Javascript Learning](https://github.com/micromata/awesome-javascript-learninig)
  - [JsForCats Intro for New Programmers](http://jsforcats.com/)
    - Introduction for new programmers almost exclusively through cat examples and metaphors 😺
  - [JS the Right Way](http://jstherightway.org/)
    - Awesome resource full of simple definitions and tons of resources from everything js from beginner to more advanced topics. Great for
 getting started or simply to use as a "go to" resource for definitions and additional resources.
- - []()
-  -
 
 ## Ruby
  - [Ruby Monk: Primer](https://rubymonk.com/learning/books/1-ruby-primer)
