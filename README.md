@@ -78,6 +78,8 @@ getting started or simply to use as a "go to" resource for definitions and addit
          -
 ## Collections
 
+ - [Free Code Camp](https://www.freecodecamp.org/)
+  - Awesome, comprehensive free curriculum.
  - [CodeNewbie Learning Resources](http://www.codenewbie.org/learn)
  - Sorted by formats and languages. Includes both bootcamps and free resources.
  - [Girl Develop It Open Source Curriculum](http://www.teaching-materials.org/)
