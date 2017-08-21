@@ -50,8 +50,10 @@ getting started or simply to use as a "go to" resource for definitions and addit
  - [Ruby for Beginners](http://ruby-for-beginners.rubymonstas.org/index.html)
    - Open source ebook.
 
+## Math, Logic and General Programming
 
-## General Programming
+ - [Better Explained](https://betterexplained.com/)
+   - Awesome blog and wealth of resources that focus on
  - [Harvard's CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
    - FREE introduction to programming and computer science. ($90 for verified certificate)
 
@@ -60,6 +62,8 @@ getting started or simply to use as a "go to" resource for definitions and addit
 
  - [KhanAcademy Intro to HTML/CSS: Making a Web Page](https://www.khanacademy.org/computing/computer-programming/html-css)
    - Learn how to use HTML and CSS to make webpages.
+ - [KhanAcademy Hour of Code](https://www.khanacademy.org/hourofcode)
+  -
  - [HTML5andCSS3 for Absolute Beginners](https://channel9.msdn.com/Series/HTML5-CSS3-Fundamentals-Development-for-Absolute-Beginners)
    - Free video course.
  - [Udemy Free Course](https://www.udemy.com/html-and-css-for-absolute-beginners-with-examples/)
@@ -79,7 +83,7 @@ getting started or simply to use as a "go to" resource for definitions and addit
 ## Collections
 
  - [Free Code Camp](https://www.freecodecamp.org/)
-  - Awesome, comprehensive free curriculum.
+  - Awesome, comprehensive and free curriculum.
  - [CodeNewbie Learning Resources](http://www.codenewbie.org/learn)
  - Sorted by formats and languages. Includes both bootcamps and free resources.
  - [Girl Develop It Open Source Curriculum](http://www.teaching-materials.org/)
