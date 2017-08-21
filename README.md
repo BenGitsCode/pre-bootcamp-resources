@@ -13,6 +13,7 @@ TODO: Fill out this long description.
 - [Stories and Anecdotes](#stories-and-anecdote)
 - [Javascript](#javascript)
 - [Ruby](#ruby)
+- [Math, Logic and General Programming](#math-logic-and-general-programming)
 - [Html and CSS](#html-and-css)
 - [Coding Challenges](#coding-challenges)
 - [Contribute](#contribute)
